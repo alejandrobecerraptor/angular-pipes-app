@@ -11,11 +11,11 @@ export class OrderComponent {
   isUpperCase: boolean = false;
   heroes: Hero[] = [
     { name: 'Batman', canFly: false, color: Color.black },
-    { name: 'Superman', canFly: false, color: Color.blue },
+    { name: 'Superman', canFly: true, color: Color.blue },
     { name: 'Spiderman', canFly: true, color: Color.red },
     { name: 'Iron Man', canFly: true, color: Color.red },
     { name: 'Hulk', canFly: false, color: Color.green },
-    { name: 'Wolverine', canFly: true, color: Color.yellow },
+    { name: 'Wolverine', canFly: false, color: Color.yellow },
     { name: 'Captain America', canFly: false, color: Color.blue },
     { name: 'Thor', canFly: true, color: Color.silver },
   ];
