@@ -8,7 +8,7 @@ _Aplicacion desarrollada en Angular, para repasar concepto de pipes , se muestra
 ## Demo 🎮
 _Despleegado con gihub pages, y despliegue automatico con scripts (npm run build:github)_
 
-Este es el Demo de la aplicacion, **Update[ 12/11/2024 ]** [Click Aquí](https://alejandrobecerraptor.github.io/angular-pipes-app/)
+Este es el Demo de la aplicacion, **Update[ 12/11/2024 ]** [Click Aquí](https://alejandrobecerraptor.github.io/angular-pipes-app-primeNG/)
 
 
 ## Importante ℹ
@@ -21,7 +21,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 Facil primero lo clonas con este comando:
 
-## `git clone https://github.com/alejandrobecerraptor/angular-pipes-app.git`
+## `git clone https://github.com/alejandrobecerraptor/angular-pipes-app-primeNG.git`
 
 _Despues de eso te toca descargar las dependencias con:_ ⚙️
 
