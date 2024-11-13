@@ -13,42 +13,42 @@ export class MenuComponent implements OnInit {
     this.menuItems = [
       {
         label: 'Pipes de Angular',
-        icon: 'pi pi-fw pi-desktop',
+        icon: 'pi pi-desktop',
         items: [
           {
             label: 'Textos y Fechas',
-            icon: 'pi pi-fw pi-home',
-            routerLink: '/pipes',
+            icon: 'pi pi-align-left',
+            routerLink: '/',
           },
           {
             label: 'Numeros',
-            icon: 'pi pi-fw pi-dollar',
-            routerLink: '/pipes',
+            icon: 'pi pi-dollar',
+            routerLink: 'numbers',
           },
           {
             label: 'No Comunes',
-            icon: 'pi pi-fw pi-globe',
-            routerLink: '/pipes',
+            icon: 'pi pi-globe',
+            routerLink: 'uncommon',
           },
         ],
       },
       {
         label: 'Pipes Personalizados',
-        icon: 'pi pi-fw pi-desktop',
+        icon: 'pi pi-desktop',
         items: [
           {
             label: 'Otro elemento',
-            icon: 'pi pi-fw pi-home',
+            icon: 'pi pi-home',
             routerLink: '/pipes',
           },
           {
             label: 'Numeros',
-            icon: 'pi pi-fw pi-dollar',
+            icon: 'pi pi-dollar',
             routerLink: '/pipes',
           },
           {
             label: 'No Comunes',
-            icon: 'pi pi-fw pi-globe',
+            icon: 'pi pi-globe',
             routerLink: '/pipes',
           },
         ],
