@@ -37,19 +37,9 @@ export class MenuComponent implements OnInit {
         icon: 'pi pi-desktop',
         items: [
           {
-            label: 'Otro elemento',
-            icon: 'pi pi-home',
-            routerLink: '/pipes',
-          },
-          {
-            label: 'Numeros',
-            icon: 'pi pi-dollar',
-            routerLink: '/pipes',
-          },
-          {
-            label: 'No Comunes',
-            icon: 'pi pi-globe',
-            routerLink: '/pipes',
+            label: 'Custom Pipes',
+            icon: 'pi pi-cog',
+            routerLink: 'custom',
           },
         ],
       }
