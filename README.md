@@ -8,7 +8,7 @@ _Aplicacion desarrollada en Angular, para repasar concepto de pipes , se muestra
 ## Demo 🎮
 _Despleegado con gihub pages, y despliegue automatico con scripts (npm run build:github)_
 
-Este es el Demo de la aplicacion, **Update[ 12/11/2024 ]** [Click Aquí](https://alejandrobecerraptor.github.io/angular-pipes-app-primeNG/)
+Este es el Demo de la aplicacion, **Update[ 13/11/2024 ]** [Click Aquí](https://alejandrobecerraptor.github.io/angular-pipes-app-primeNG/)
 
 
 ## Importante ℹ
