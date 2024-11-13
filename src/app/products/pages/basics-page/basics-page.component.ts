@@ -9,4 +9,7 @@ export class BasicsPageComponent {
   nameLower: string = 'angular';
   nameUpper: string = 'ANGULAR  ';
   fullName: string = 'aNgUlAr jS ';
+
+  customDate: Date = new Date();
+
 }
